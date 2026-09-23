@@ -35,11 +35,11 @@ cost and suitability for practical production-line inspection.
 
 The project aims to:
 
-- develop a reproducible image-processing and machine-learning pipeline;
-- extract and analyse relevant visual features from packaging images;
-- establish a baseline classification method;
-- develop an improved machine-learning or deep-learning model;
-- evaluate performance using independent validation/test data;
-- investigate false-positive and false-negative inspection decisions;
-- analyse computational performance and model trade-offs;
-- assess limitations relevant to real-world manufacturing deployment.
+- Develop a reproducible image-processing and machine-learning pipeline;
+- Extract and analyse relevant visual features from packaging images;
+- Establish a baseline classification method;
+- Develop an improved machine-learning or deep-learning model;
+- Evaluate performance using independent validation/test data;
+- Investigate false-positive and false-negative inspection decisions;
+- Analyse computational performance and model trade-offs;
+- Assess limitations relevant to real-world manufacturing deployment.
